@@ -1,5 +1,7 @@
 <a href="https://www.codefactor.io/repository/github/mariaclara31/in8-desenvolvedor-fullstack"><img src="https://www.codefactor.io/repository/github/mariaclara31/in8-desenvolvedor-fullstack/badge" alt="CodeFactor" /></a>
-#Teste
+
+<strong><h1>Teste</h1></strong>
+
 Repositório criado para a realização do teste prático da empresa IN8
 
 Obs:
@@ -7,7 +9,7 @@ Obs:
 
 2º - Não há utilização de frameworks na resolução dos testes.
 
-#Instruções
+<strong>Instruções</strong>
 
 Instalar bibliotecas JSON e Doctest(se já possuir, é só desconsiderar)
 
